@@ -4,7 +4,7 @@
 	<title></title>
 </head>
 <body>
-<img src = "1.PNG" width = "250px" height = "300px" >
+<img src = "1.png" width = "250px" height = "300px" >
 	<img src = "2.PNG" width = "250px" height = "300px" >
 	<img src = "3.PNG" width = "250px" height = "300px" >
 	<img src = "4.PNG" width = "250px" height = "300px" >
